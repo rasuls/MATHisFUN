@@ -2,6 +2,8 @@
 Name: Rasul Silva (:
 
 validate, visualize and explore mathematical concepts, proofs, and conjectures!
+These projects are written for simplicity, not pure performance. The math was the main
+focus!
 
 Here is a list of the projects contained in this repository with brief descriptions:
 
