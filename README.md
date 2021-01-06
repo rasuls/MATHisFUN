@@ -7,7 +7,7 @@ focus!
 
 Here is a list of the projects contained in this repository with brief descriptions:
 
-1.collatz.py - this is a visualization of the Collatz conjecture which is a repeated application of conditional calcultions to a starting value defined as shown below. The conjecture states that the sequence will reach 0 for any number. The plot displays the starting value on the x axis and the sequence length(the number of calculations required to get to 1) on the y axis.
+1.collatz.py - this is a visualization of the Collatz conjecture which is a repeated application of conditional calculations to a starting value defined as shown below. The conjecture states that the sequence will reach 0 for any number. The plot displays the starting value on the x axis and the sequence length(the number of calculations required to get to 1) on the y axis.
                
                N/2        if N is even       
          N =                                   repeated application of these conditions to any number 
